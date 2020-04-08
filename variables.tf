@@ -25,7 +25,7 @@ variable "subnet_prefix" {
 }
 
 variable "instance_type" {
-  description = "Specifies the AWS instance type."
+  description = "thanrahan"
   default     = "t2.micro"
 }
 
